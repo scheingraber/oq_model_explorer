@@ -3,7 +3,8 @@
 Openquake model explorer.
 
 # Info
-This is a some code to visualize, analyze and simplify Openquake models. Since some functionality that is not meant to be published here has been removed without further adjustments, the current state of the code is broken.
+This is some python code to visualize, analyze and simplify Openquake models. Since some functionality that is not meant to be published here has been removed without further adjustments, the current state of the code is broken.
+Dependencies include openquake, numpy, scipy, pandas, matplotlib.
 
 # Disclaimer
 This project is in no way affiliated with GEM. It just uses some Openquake code.
