@@ -22,4 +22,3 @@ It still needs to be refactored to a model-visualization-only tool.
 [![Model and MFD Visualization](http://i.imgur.com/udBSejM.png)](https://github.com/ChrisPara/oq_model_explorer)
 
 [![Submodel Extraction](http://i.imgur.com/LkY0VBr.png)](https://github.com/ChrisPara/oq_model_explorer)
-EM
