@@ -3,7 +3,7 @@
 Openquake model explorer.
 
 # Info
-This is some python code to _visualize_, _analyze_ and _simplify_ Openquake models. Some functionality that is not meant to be published here has been removed.
+This is a GUI interface to _visualize_, _analyze_ and _simplify_ Openquake models. Some functionality that is not meant to be published here has been removed.
 
 Dependencies include:
 
